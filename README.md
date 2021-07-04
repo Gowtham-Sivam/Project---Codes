@@ -5,3 +5,5 @@ In computer science and information theory, a Huffman code is a particular type 
 We have reduced the number of bits used by the text document by calculating the number of occurances of each ASCII(American Standard Code for Information Interchange) value.
 
 The compression Ratio  has to be as huge as possible so that the compression becomes more efficient. 
+
+A Document of 87.2 MB was reduced to 50.6 MB with the Compression Ratio - 2.695649233727809. 
